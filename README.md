@@ -19,7 +19,7 @@ For quick install using Composer, install using:
 Download project and unzip to `~/.terminus/plugins/terminus-pancakes-plugin`
 
 
-**_Note:_** This plugin will only work with Terminux 1.x. For Terminus 0.13, go [here](https://github.com/derimagia/terminus-pancakes/releases/tag/0.1).
+**_Note:_** For versions before Terminux 1.x, including v0.13, go [here](https://github.com/derimagia/terminus-pancakes/releases/tag/0.1).
 
 
 ## Supported:
